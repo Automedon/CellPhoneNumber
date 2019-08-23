@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/CellPhoneNumber/static/css/main.34de6062.chunk.css",
+    "main.js": "/CellPhoneNumber/static/js/main.a41a1f3f.chunk.js",
+    "main.js.map": "/CellPhoneNumber/static/js/main.a41a1f3f.chunk.js.map",
+    "runtime~main.js": "/CellPhoneNumber/static/js/runtime~main.32e77b83.js",
+    "runtime~main.js.map": "/CellPhoneNumber/static/js/runtime~main.32e77b83.js.map",
+    "static/css/2.266e55a5.chunk.css": "/CellPhoneNumber/static/css/2.266e55a5.chunk.css",
+    "static/js/2.b9758f66.chunk.js": "/CellPhoneNumber/static/js/2.b9758f66.chunk.js",
+    "static/js/2.b9758f66.chunk.js.map": "/CellPhoneNumber/static/js/2.b9758f66.chunk.js.map",
+    "index.html": "/CellPhoneNumber/index.html",
+    "precache-manifest.b3097d1ec59b27007a1f9c1336165d3e.js": "/CellPhoneNumber/precache-manifest.b3097d1ec59b27007a1f9c1336165d3e.js",
+    "service-worker.js": "/CellPhoneNumber/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/CellPhoneNumber/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/CellPhoneNumber/static/css/main.34de6062.chunk.css.map"
+  }
+}
