@@ -14,7 +14,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build&& move build docs",
-    "test": "react-scripts test",
+    "test": "react-scripts test --verbose=false",
     "eject": "react-scripts eject"
   },
   "homepage": "https://automedon.github.io/CellPhoneNumber/",
