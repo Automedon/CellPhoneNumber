@@ -55,7 +55,7 @@ class CellPhoneForm extends Component {
               </div>
 
               <button type="submit" className="btn btn-primary btn-block">
-                Login
+                Send Number
               </button>
             </form>
           </div>
